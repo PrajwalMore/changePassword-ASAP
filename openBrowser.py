@@ -4,7 +4,7 @@ import webbrowser
 print("Application launched")
 webbrowser.register('chrome',
 	None,
-	webbrowser.BackgroundBrowser("C:\Program Files\Google\Chrome\Application/chrome.exe"))
+	webbrowser.BackgroundBrowser("C:\Program Files\Google\Chrome\Application\chrome.exe"))
 
 setOfUrl={"google":"google password change url here"}
 
