@@ -1,6 +1,5 @@
 import webbrowser
 
-##url = 'https://pythonexamples.org'
 print("Application launched")
 webbrowser.register('chrome',
 	None,
