@@ -10,8 +10,8 @@ setOfUrl={"google":"google password change url here"}
 
 def addLink(urlName,url):
     setOfUrl[urlName]=url
-addLink("github","github password change url here.")
-#addLink("onlineSite","password change service url")
+addLink("github","https://github.com/password_reset")
+addLink("Google","https://myaccount.google.com/intro/security")
 #addLink("","")
 #addLink("","")
 #addLink("","")
